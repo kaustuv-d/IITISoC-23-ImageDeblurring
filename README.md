@@ -7,7 +7,7 @@ Image blurring is a common phenomenon caused by various factors such as motion b
 The Image Deblurring GAN is a PyTorch-based model that utilizes the power of Generative Adversarial Networks (GANs) to remove blurriness from images. It aims to enhance the clarity and sharpness of blurred images by learning from a training dataset.
 
 ## Key Features
-# Based on [DeblurGan paper] (https://github.com/kaustuv-d/ImageDeblurGAN/blob/main/DeblurGAN.pdf)
+Based on [DeblurGan paper](https://github.com/kaustuv-d/ImageDeblurGAN/blob/main/DeblurGAN.pdf)
 - Utilizes a GAN-based approach to deblur images.
 - The Generator network implements a U-Net-like architecture with skip connections (ResNet blocks) for image-to-image translation tasks, such as image super-resolution or image deblurring. The use of reflection padding and instance normalization aids in producing visually appealing results while avoiding artifacts and mode collapse during GAN training.
 - Based on [PatchGAN](https://paperswithcode.com/method/patchgan) The Discriminator class implements a convolutional neural network with Leaky ReLU activations and instance normalization to discriminate between real and generated images. It uses multiple convolutional layers to learn hierarchical features from the input images and reduces the spatial dimensions while increasing the number of channels.
