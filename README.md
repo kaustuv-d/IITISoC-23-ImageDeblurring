@@ -25,8 +25,8 @@ The Image Deblurring GAN model has been trained on the following datasets:
 To get started with ClearVU, follow these steps:
 1. Clone this GitHub repository:
 ```
-git clone https://github.com/kaustuv-d/ImageDeblurGAN.git
-cd ImageDeblurGAN
+git clone https://github.com/kaustuv-d/IITISoC-23-ImageDeblurring.git
+cd IITISoC-23-ImageDeblurring
 ```
 2. Set up a virtual environment(optional but recommended):
 ```
