@@ -1,4 +1,4 @@
-# ClearVU - an Image Deblurring GAN
+# ClearVU 
 ## Overview 
 Welcome to the ClearVU repository! This project is focused on utilizing Generative Adversarial Networks (GANs) to perform image deblurring. The model is trained on the GoPro dataset and the RealBlur dataset to effectively remove blur artifacts from images. This README file serves as a comprehensive guide to understanding the project, setting up the environment, running the model, and contributing to the development
 
@@ -47,7 +47,7 @@ python -u main.py
 Open your web browser and navigate to 'http://localhost:5000' to access the ClearVU UI application.
 
 ## Application
-The 'Clear VU' web application allows users to upload images, preview them, deblur them using the ClearVU application, and view the deblurred results by comparing it with the original blurred image.
+The 'Clear VU' web application allows users to upload images, preview them, deblur them using the ClearVU application, and view the deblurred results by comparing them with the original blurred image.
 
 ## Thank you for using ClearVU! Happy deblurring!
 
