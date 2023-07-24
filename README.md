@@ -49,7 +49,7 @@ Open your web browser and navigate to 'http://localhost:5000' to access the Clea
 ## Application
 The 'Clear VU' web application allows users to upload images, preview them, deblur them using the ClearVU application, and view the deblurred results by comparing it with the original blurred image.
 
-Thank you for using ClearVU! Happy deblurring!
+## Thank you for using ClearVU! Happy deblurring!
 
 ## Contributors
 - Kaustuv Devmishra [Mechanical Engineering, IIT Indore]
