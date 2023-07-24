@@ -37,8 +37,19 @@ source venv/bin/activate     # On Windows: venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
+## Interactive UI
+To run the web application, follow these steps:
+1. Ensure that you have installed all the required dependencies mentioned in the ***Installation*** section.
+2. Run the application using the following command:
+```
+python -u main.py
+```
+Open your web browser and navigate to 'http://localhost:5000' to access the ClearVU UI application.
 
+## Application
+The 'Clear VU' web application allows users to upload images, preview them, deblur them using the ClearVU application, and view the deblurred results by comparing it with the original blurred image.
 
+Thank you for using ClearVU! Happy deblurring!
 
 ## Contributors
 - Kaustuv Devmishra [Mechanical Engineering, IIT Indore]
