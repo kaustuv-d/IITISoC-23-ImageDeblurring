@@ -1,0 +1,7 @@
+requests
+numpy
+pandas
+torch
+torchvision
+Pillow
+werkzeug
