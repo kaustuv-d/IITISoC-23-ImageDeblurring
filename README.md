@@ -28,23 +28,19 @@ To get started with ClearVU, follow these steps:
 git clone https://github.com/kaustuv-d/IITISoC-23-ImageDeblurring.git
 cd IITISoC-23-ImageDeblurring
 ```
-2. Set up a virtual environment(optional but recommended):
-```
-python -m venv venv
-source venv/bin/activate     # On Windows: venv\Scripts\activate
-```
-3. Install the required dependencies:
+2. Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
 ## Interactive UI
 To run the web application, follow these steps:
 1. Ensure that you have installed all the required dependencies mentioned in the ***Installation*** section.
-2. Run the application using the following command:
+2. Run the application using the following commands:
 ```
+cd webapp
 python -u main.py
 ```
-Open your web browser and navigate to 'http://localhost:5000' to access the ClearVU UI application.
+Open the generated link to access the ClearVU UI application.
 
 ## Application
 The 'Clear VU' web application allows users to upload images, preview them, deblur them using the ClearVU application, and view the deblurred results by comparing them with the original blurred image.
