@@ -28,6 +28,7 @@ To get started with ClearVU, follow these steps:
 git clone https://github.com/kaustuv-d/IITISoC-23-ImageDeblurring.git
 cd IITISoC-23-ImageDeblurring
 ```
+As an easier alternative, you can download the zip file of the repo and extract it. 
 2. Install the required dependencies:
 ```
 pip install -r requirements.txt
