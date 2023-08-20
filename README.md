@@ -1,4 +1,5 @@
 # ClearVU 
+### This project won the 1st Prize in IITI-Summer-of-Code 2023 (IITI-SoC'23)  in AI/ML division 
 ## Overview 
 Welcome to the ClearVU repository! This project is focused on utilizing Generative Adversarial Networks (GANs) to perform image deblurring. The model is trained on the GoPro dataset and the RealBlur dataset to effectively remove blur artifacts from images. This README file serves as a comprehensive guide to understanding the project, setting up the environment, running the model, and contributing to the development
 
